@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: fb7f6e200e2e8c84e98016d54661e8ab
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 786000ab15e5fc3438d24b0a088b0286
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Syougou.unity
+    guid: 86f30d88280183d40a590ff127b20f7b
+  - enabled: 1
+    path: Assets/Scenes/How to Play.unity
+    guid: 31b54013e2be9fc49a35b63fefa7af6c
+  m_configObjects: {}
